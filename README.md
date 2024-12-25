@@ -102,7 +102,7 @@ This project is licensed under the MIT License.
 
 Author
 
-Your Name
+Koruprolu Lava Raju
 
-Your GitHub Profile
+https://github.com/lavaraju7
 
