@@ -56,27 +56,6 @@ Starts the server in development mode with nodemon.
 npm run run-migrations
 
 Runs all pending database migrations using Knex.
-
-Project Structure
-
-nodejs-sample-project/
-├── src/
-│   ├── config/
-│   │   ├── knexFile.js          # Knex configuration file
-│   │   ├── db.js                # Database connection setup
-│   ├── controllers/             # Route controllers
-│   ├── dtos/                    # Data Transfer Objects
-│   ├── middlewares/             # Middleware functions
-│   ├── migrations/              # Knex migrations
-│   ├── models/                  # Objection models (e.g., Superhero, Power)
-│   ├── routes/                  # API routes
-│   ├── services/                # Business logic
-│   ├── app.js                   # Express app setup
-│   ├── server.js                # Server entry point
-├── .env                         # Environment variables
-├── package.json                 # Project metadata and scripts
-├── README.md                    # Project documentation
-
 Features
 
 Express: Lightweight and efficient server framework.
